@@ -1,5 +1,6 @@
 data/*
 logs/*
+api_keys.txt
 *.csv
 *.h5
 *.pyc
